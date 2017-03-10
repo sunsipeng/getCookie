@@ -1,5 +1,5 @@
 /**
- * 获取cookie
+ * getCookie
  * @Date: 2017-03-10
  * @author: sipeng
  * @site: http://www.sipeng.net
